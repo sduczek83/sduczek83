@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @sduczek83
+- 👀 I’m interested in computer science.
+- 🌱 I’m currently learning PHP, Python, Linux Desktop and few more things required to [351203].
+- 💞️ I’m looking to collaborate on ... nah.
+- 📫 How to reach me - write to: slawomir.duczek@zs.ketrzyn.pl
+
+<!---
+sduczek83/sduczek83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
