@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sduczek83
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning PHP, Python, Linux Desktop and few more things required to [351203].
+- 🌱 I’m currently learning PHP, Python, Linux Desktop and few more things required for [351203] and [351406].
 - 💞️ I’m looking to collaborate on ... nah.
 - 📫 How to reach me - write to: slawomir.duczek@zs.ketrzyn.pl
 
